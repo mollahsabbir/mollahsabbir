@@ -1,6 +1,6 @@
 # Hello World 💻
 
-![](img/deep-into-neural-network.gif)
+![](https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif)
 
 I am currently delving deep into *Neural Networks* 🚂   
 
@@ -18,7 +18,7 @@ I am currently delving deep into *Neural Networks* 🚂
 
 
 ### Favorite Programming Languages and Tools 🔭🚀🔥
-<img src="img/python.png" width=60> | <img src="img/c-logo.png" width=60> |<img src="img/vscode.png" width=60> |
+<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/python.png" width=60> | <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/c-logo.png" width=60> |<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/vscode.png" width=60> |
 |:---:|:---:|:---:|
 
 <div align="center">
