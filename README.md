@@ -10,7 +10,7 @@ I am currently delving deep into *Neural Networks* 🚂
 
 * 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/).
 
-* 💼 Leading as *Chair* at [NSU ACM Student Chapter](https://medium.com/@sabbirmollah).
+* 💼 Former *Chair* at [NSU ACM Student Chapter](https://medium.com/@sabbirmollah) (2020-2021).
 
 * 📖   Currently reading these awesome [books](https://www.goodreads.com/review/list/82590914?shelf=currently-reading).
 
