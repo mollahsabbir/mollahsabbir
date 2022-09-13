@@ -27,9 +27,9 @@ I am currently delving deep into *Neural Networks* 🚂
 
 <i>Follow me around the web:</i><br>
 
-  <a target="_blank" href="https://www.linkedin.com/in/sabbir-mollah/">LinkedIn</a> ●
-  <a target="_blank" href="https://www.facebook.com/sabbir.sabby/">Facebook</a> ●
-  <a target="_blank" href="https://medium.com/@sabbirmollah/">Medium</a> ●
+  <a target="_blank" href="https://www.linkedin.com/in/mollahsabbir/">LinkedIn</a> ●
+  <a target="_blank" href="https://www.facebook.com/mollahsabbir/">Facebook</a> ●
+  <a target="_blank" href="https://medium.com/@mollahsabbir/">Medium</a> ●
   <a target="_blank" href="https://www.goodreads.com/user/show/82590914-sabbir">GoodReads</a>
 
 
