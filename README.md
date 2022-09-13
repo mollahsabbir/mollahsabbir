@@ -2,19 +2,20 @@
 
 ![](https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif)
 
-I am currently delving deep into *Neural Networks* 🚂   
+I am currently delving deep into *Neural Networks* 🚂 
 
-* 🤔   Interested in *Artificial Intelligence*.
+* 💼 Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/)
 
-* 🌱   Continuously learning  *Mathematics* & *Philosophy*.
+* 💼 Former *Research Assistant* at [Apurba-NSU R&D Lab](https://github.com/apurba-nsu-rnd-lab) (Sep 2021 - Aug 2022).
 
-* 🎓   Pursuing Bachelors Degree in CSE at [North South University](http://www.northsouth.edu/).
+* 💼 Former *Lab Instructor* at [ECE Department, North South University](http://ece.northsouth.edu/) (Spring 2022 and Summer 2022).
 
-* 💼 Former *Chair* at [NSU ACM Student Chapter](https://medium.com/@sabbirmollah) (2020-2021).
+* 💼 Former *Chair* at [NSU ACM Student Chapter](https://www.facebook.com/nsuacmsc/) (2020-2021).
+
+* 🎓 Bachelors in CSE at [North South University](http://www.northsouth.edu/).
 
 * 📖   Currently reading these awesome [books](https://www.goodreads.com/review/list/82590914?shelf=currently-reading).
-
-* 📝 Turns thoughts into words [here](https://medium.com/@sabbirmollah).
+* 🌱   Continuously learning  *Mathematics* & *Philosophy*.
 
 
 ### Favorite Programming Languages and Tools 🔭🚀🔥
@@ -40,7 +41,7 @@ I am currently delving deep into *Neural Networks* 🚂
   <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabbirmollah&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="Sabbir's Github Stats" alt="Sabbir's Github Status" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mollahsabbir&&show_icons=true&title_color=c095e3&icon_color=95dfe3&text_color=ffffff&bg_color=231f20" alt="Sabbir's Github Stats" alt="Sabbir's Github Status" />
 </p>
 
 
