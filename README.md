@@ -4,7 +4,9 @@
 
 I am currently delving deep into *Neural Networks* 🚂 
 
-* 💼 Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/)
+* 💼 Engineer (Software Research & Engineering) at [bKash Ltd.](https://www.linkedin.com/company/bkash-limited)
+
+* 💼 Former Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/)
 
 * 💼 Former *Research Assistant* at [Apurba-NSU R&D Lab](https://github.com/apurba-nsu-rnd-lab) (Sep 2021 - Aug 2022).
 
