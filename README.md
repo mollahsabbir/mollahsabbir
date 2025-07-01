@@ -4,6 +4,8 @@
 
 I am currently delving deep into *Neural Networks* 🚂 
 
+* 💼 Graduate Research Assistant (Computer Vision) at [CRCV Lab](https://www.crcv.ucf.edu)
+
 * 💼 Engineer (Software Research & Engineering) at [bKash Ltd.](https://www.linkedin.com/company/bkash-limited)
 
 * 💼 Former Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/)
@@ -13,6 +15,8 @@ I am currently delving deep into *Neural Networks* 🚂
 * 💼 Former *Lab Instructor* at [ECE Department, North South University](http://ece.northsouth.edu/) (Spring 2022 and Summer 2022).
 
 * 💼 Former *Chair* at [NSU ACM Student Chapter](https://www.facebook.com/nsuacmsc/) (2020-2021).
+
+* 🎓 Pursuing PhD in Computer Science at [University of Central Florida](https://www.ucf.edu).
 
 * 🎓 Bachelors in CSE at [North South University](http://www.northsouth.edu/).
 
