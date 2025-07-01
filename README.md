@@ -6,9 +6,9 @@ I am currently delving deep into *Neural Networks* 🚂
 
 * 💼 Graduate Research Assistant (Computer Vision) at [CRCV Lab.](https://www.crcv.ucf.edu)
 
-* 💼 Engineer (Software Research & Engineering) at [bKash Ltd.](https://www.linkedin.com/company/bkash-limited)
+* 💼 Former Machine Learning Engineer at [bKash Ltd.](https://www.linkedin.com/company/bkash-limited) (Dec 2022 - July 2024).
 
-* 💼 Former Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/)
+* 💼 Former Machine Learning Engineer at [Apurba Technologies Ltd.](https://www.linkedin.com/company/apurba-technologies-ltd/) (Sep 2022 - Dec 2022).
 
 * 💼 Former *Research Assistant* at [Apurba-NSU R&D Lab](https://github.com/apurba-nsu-rnd-lab) (Sep 2021 - Aug 2022).
 
