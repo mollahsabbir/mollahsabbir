@@ -4,7 +4,7 @@
 
 I am currently delving deep into *Neural Networks* 🚂 
 
-* 💼 Graduate Research Assistant (Computer Vision) at [CRCV Lab](https://www.crcv.ucf.edu).
+* 💼 Graduate Research Assistant (Computer Vision) at [CRCV Lab.](https://www.crcv.ucf.edu)
 
 * 💼 Engineer (Software Research & Engineering) at [bKash Ltd.](https://www.linkedin.com/company/bkash-limited)
 
